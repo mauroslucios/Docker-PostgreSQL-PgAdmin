@@ -1,0 +1,80 @@
+[2019-09-17 08:41:02.441] [exthost] [info] extension host started
+[2019-09-17 08:41:02.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.462] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-17 08:41:02.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.605] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-17 08:41:02.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.709] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-17 08:41:02.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.875] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-17 08:41:02.893] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.893] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/alefragnani.bookmarks-10.5.0/dist/extension
+[2019-09-17 08:41:02.928] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.numbered-bookmarks {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.928] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/alefragnani.numbered-bookmarks-6.2.1/dist/extension
+[2019-09-17 08:41:02.939] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:02.939] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-09-17 08:41:03.093] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.093] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-09-17 08:41:03.245] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.245] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-17 08:41:03.313] [exthost] [info] ExtensionService#_doActivateExtension jakethashi.vscode-angular2-emmet {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.313] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3/out/src/extension
+[2019-09-17 08:41:03.519] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.519] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/kamikillerto.vscode-colorize-0.8.13/out/src/extension
+[2019-09-17 08:41:03.592] [exthost] [info] ExtensionService#_doActivateExtension LaurentTreguier.vscode-simple-icons {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.592] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/laurenttreguier.vscode-simple-icons-1.11.10/out/extension
+[2019-09-17 08:41:03.616] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.616] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.3/out/extension
+[2019-09-17 08:41:03.682] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.682] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-17 08:41:03.732] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:03.732] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/shan.code-settings-sync-3.4.2/out/extension.js
+[2019-09-17 08:41:04.029] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:04.029] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/shyykoserhiy.vscode-spotify-3.1.0/out/src/extension
+[2019-09-17 08:41:05.022] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:41:05.022] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/vscode-icons-team.vscode-icons-9.3.0/dist/src/vscode-icons.bundle.js
+[2019-09-17 08:41:05.166] [exthost] [info] eager extensions activated
+[2019-09-17 08:44:00.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-17 08:44:00.105] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-17 08:44:00.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-17 08:44:00.157] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-17 08:44:00.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-17 08:44:00.346] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-09-17 08:44:34.746] [exthost] [info] extension host started
+[2019-09-17 08:44:34.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.761] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-17 08:44:34.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.764] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-17 08:44:34.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.808] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-17 08:44:34.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.899] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-17 08:44:34.904] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.904] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/alefragnani.bookmarks-10.5.0/dist/extension
+[2019-09-17 08:44:34.914] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.numbered-bookmarks {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.914] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/alefragnani.numbered-bookmarks-6.2.1/dist/extension
+[2019-09-17 08:44:34.920] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.920] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-09-17 08:44:34.934] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.934] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-09-17 08:44:34.950] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.950] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-09-17 08:44:34.989] [exthost] [info] ExtensionService#_doActivateExtension jakethashi.vscode-angular2-emmet {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:34.989] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3/out/src/extension
+[2019-09-17 08:44:35.094] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.094] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/kamikillerto.vscode-colorize-0.8.13/out/src/extension
+[2019-09-17 08:44:35.119] [exthost] [info] ExtensionService#_doActivateExtension LaurentTreguier.vscode-simple-icons {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.119] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/laurenttreguier.vscode-simple-icons-1.11.10/out/extension
+[2019-09-17 08:44:35.121] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.121] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.3/out/extension
+[2019-09-17 08:44:35.127] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.127] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/pkief.material-icon-theme-3.9.0/dist/extension
+[2019-09-17 08:44:35.144] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.144] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/shan.code-settings-sync-3.4.2/out/extension.js
+[2019-09-17 08:44:35.389] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.389] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/shyykoserhiy.vscode-spotify-3.1.0/out/src/extension
+[2019-09-17 08:44:35.553] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-09-17 08:44:35.553] [exthost] [info] ExtensionService#loadCommonJSModule /home/mauroslucios/.vscode/extensions/vscode-icons-team.vscode-icons-9.3.0/dist/src/vscode-icons.bundle.js
+[2019-09-17 08:44:36.378] [exthost] [info] eager extensions activated
+[2019-09-17 08:44:42.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-09-17 08:44:42.302] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

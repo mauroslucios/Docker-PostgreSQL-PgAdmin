@@ -1,0 +1,4 @@
+[2019-09-17 08:40:51.975] [main] [info] update#setState idle
+[2019-09-17 08:41:21.975] [main] [info] update#setState checking for updates
+[2019-09-17 08:41:33.066] [main] [error] Error: net::ERR_NETWORK_CHANGED
+[2019-09-17 08:41:33.066] [main] [info] update#setState idle

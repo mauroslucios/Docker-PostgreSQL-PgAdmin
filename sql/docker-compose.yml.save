@@ -1,0 +1,28 @@
+version: '2.0'
+
+services:
+   web:
+      image: dbpage/pgadmin4
+      ports:
+        -"15432:15432"
+      environment:
+        -PGADMIN_DEFAULT_EMAIL=mauroslucios@gmail.com	
+        -PGADMIN_DEFAULT_PASSWORD=PgAdmin2019!
+      networks:
+        -postgres-network
+      depends_on:
+        -db
+      links:
+        -"db:database"
+db:
+	   image: postgres
+           volumes:
+             - ./PostgreSQL:/var/lib/postgresql/data
+           restart: always
+           environment:
+             -POSTGRES_PASSWORD=Postgres2019!
+           ports:
+             -"5432:5432"
+           networks:
+             -postgres-network
+	

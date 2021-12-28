@@ -1,0 +1,5 @@
+file:///home/mauros/Documentos/docker-projects/postgres/.gitignore {"mtime":1640652704122,"ctime":1640652704122,"size":0,"etag":"38369mini0","orphaned":false,"typeId":""}
+dvdrental.tar
+PostgreSQL/
+sql/
+~
